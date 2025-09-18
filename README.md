@@ -1,4 +1,4 @@
-# 🍷 Wine Quality Analysis  
+#  Wine Quality Analysis  
 
 ##  Overview  
 This project analyzes the **Wine Quality Dataset (Red Wine)**. 
